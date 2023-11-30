@@ -4,7 +4,7 @@
 
 Perkenalkan nama saya **Nando Oktavian Saputra**.
 
-Saya seorang **Web Development** di [Dicoding](https://www.dicoding.com/).
+Saya seorang **Peserta Program** di [Dicoding](https://www.dicoding.com/).
 
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]()ku ya.
